@@ -1,5 +1,5 @@
 # ijunior-api-capacitacao
-###Importante
+### Importante
 Para rodar este projeto, é importante estar usando a versão 14 do node.js.
 
 ### Instalação
@@ -17,6 +17,6 @@ Para rodar este projeto, é importante estar usando a versão 14 do node.js.
     npm install ou yarn install
     ```
 Após isto, é preciso apenas adicionar o arquivo .env e rodar o comando     
-  ```sh
+    ```sh
     npm run dev
     ```
