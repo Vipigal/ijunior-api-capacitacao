@@ -9,7 +9,7 @@ Para rodar este projeto, é importante estar usando a versão 14 do node.js.
    ```
  - Entre no diretório do repositório 
     ```sh
-    cd ProjetoInternoWeb-Eq1
+    cd ijunior-api-capacitacao
     ```
  - Em sequência, entre na pasta api e instale as dependências do back
     ```sh
