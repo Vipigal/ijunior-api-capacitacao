@@ -5,7 +5,7 @@ Para rodar este projeto, é importante estar usando a versão 14 do node.js.
 ### Instalação
  - Primeiramente é necessário clonar o código, caso já tenha configurado o SSH
    ```sh
-   git clone git@github.com:UFMGInformaticaJr/ProjetoInternoWeb-Eq1.git
+   git clone git@github.com:Vipigal/ijunior-api-capacitacao.git
    ```
  - Entre no diretório do repositório 
     ```sh
